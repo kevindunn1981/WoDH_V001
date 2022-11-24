@@ -250,11 +250,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "PluginDownloader",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b5ff499954db477eb46af6537f1f9c1b"
-		},
-		{
 			"Name": "SkeletalMerging",
 			"Enabled": true
 		},
@@ -262,11 +257,6 @@
 			"Name": "SplineMeshEditor",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/270efe7731fc4f3c84c91f21898d9b3a"
-		},
-		{
-			"Name": "SplineTool",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/40a38e93966c4eb8b44d4b9f9187b177"
 		},
 		{
 			"Name": "StateTree",
@@ -297,21 +287,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "TeamDivisionPro",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6c8e2e03f8af4b40a49369d2999f6201"
-		},
-		{
-			"Name": "UITouch",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d7b58908e1454aee88239b1022c92a32"
-		},
-		{
-			"Name": "UniversalCameraPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a9172fdfc87c464eae3a49860ee2610f"
-		},
-		{
 			"Name": "VariantManager",
 			"Enabled": true
 		},
@@ -326,11 +301,6 @@
 		{
 			"Name": "WaveFunctionCollapse",
 			"Enabled": true
-		},
-		{
-			"Name": "ZibraAILiquid",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/68085fbe90064bcd9bf26816ae0eadb5"
 		},
 		{
 			"Name": "RigLogic",
